@@ -1,10 +1,9 @@
 # Bienvenidos a mi GitHub!! 👋
 
-![](https://avatars.githubusercontent.com/u/66483043?s=400&u=43e97e98e225ef9ad885117d3d85e562389f328f&v=4)
+## Mi Nombre es Pablo Ulloa Lizama, Ingeniero Civil Informático. 
 
-## Mi Nombre es Pablo Ulloa Lizama, ingeniero civil Informatico. 
-
-### ✨ Me gusta el Desarrollador Web, Movil y Software en general!! ✨
+### ✨ Desarrollador Web, Movil y Software en general!! ✨
+![](https://pablossrudi.github.io/portafolio_Js_bootstrap/src/assets/yo_nuevo.gif)
  
 ### Tecnologias aprendidas:
 - ![](https://img.icons8.com/color/25/html-5--v2.png) HTML
