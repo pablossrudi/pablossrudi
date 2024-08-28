@@ -18,7 +18,7 @@
 - ![](https://img.icons8.com/nolan/25/express-js.png) Express
 - ![](https://img.icons8.com/3d-fluency/25/java.png) Java
 
-- ### Tecnologias que quiero aprender:
+### Tecnologias que quiero aprender:
 - ![](https://img.icons8.com/external-tal-revivo-color-tal-revivo/25/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png) Angular
 - ![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/25/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png) Vue 
 - ![](https://img.icons8.com/nolan/25/nextjs.png) Next
