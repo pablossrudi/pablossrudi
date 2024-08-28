@@ -4,7 +4,7 @@
 
 ### ✨ Desarrollador Web, Movil y Software en general!! ✨
 <img align="left" src="https://pablossrudi.github.io/portafolio_Js_bootstrap/src/assets/yo_nuevo.gif" width="570">
- 
+
 ### Tecnologias aprendidas:
 - ![](https://img.icons8.com/color/25/html-5--v2.png) HTML
 - ![](https://img.icons8.com/color/25/css3.png) CSS
