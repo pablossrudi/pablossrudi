@@ -2,7 +2,7 @@
 
 ## Mi Nombre es Pablo Ulloa Lizama, Ingeniero Civil Informático. 
 
-### ✨ Desarrollador Web, Movil y Software en general!! ✨
+### ✨ Desarrollador Full Stack!! ✨
 <img align="right" src="https://pablossrudi.github.io/portafolio_Js_bootstrap/src/assets/yo_nuevo.gif" width="430">
 
 ###        Tecnologias aprendidas:
@@ -15,7 +15,7 @@ python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp;&nbsp; SQL y
 
 ### Tecnologias que estoy aprendiendo:
 &nbsp;&nbsp;![](https://img.icons8.com/nolan/25/astro.png)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://img.icons8.com/nolan/25/express-js.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://img.icons8.com/3d-fluency/25/java.png)  
-&nbsp;Astro &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Express &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java
+&nbsp;Astro &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Express &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java
 
 
 ### Tecnologias que quiero aprender:
