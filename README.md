@@ -1,6 +1,6 @@
 # Bienvenidos a mi GitHub!! 👋
 
-## Mi Nombre es Pablo Ulloa Lizama, Ingeniero Civil Informático. 
+## Yo soy Pablo Ulloa Lizama, Ingeniero Civil Informático. 
 
 ### ✨ Desarrollador Full Stack!! ✨
 <img align="right" src="https://pablossrudi.github.io/portafolio_Js_bootstrap/src/assets/yo_nuevo.gif" width="430">
