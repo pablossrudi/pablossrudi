@@ -20,7 +20,7 @@ python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp;&nbsp; SQL y
 
 ### Tecnologias que quiero aprender:
 &nbsp;&nbsp;&nbsp;![](https://img.icons8.com/external-tal-revivo-color-tal-revivo/25/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/25/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://img.icons8.com/nolan/25/nextjs.png)  
-Angular &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vue &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Next
+Angular &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vue &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Next
 
 <!--
 **pablossrudi/pablossrudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
