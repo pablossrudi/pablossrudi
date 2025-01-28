@@ -3,6 +3,7 @@
 ## Mi nombre es Pablo Ulloa Lizama, Ingeniero Civil Informático.  
 
 ### ✨ Desarrollador Full Stack!! ✨
+
 <img align="right" src="https://pablossrudi.github.io/portafolio_Js_bootstrap/src/assets/yo_nuevo.gif" width="430">
 
 ###        Tecnologias aprendidas:
@@ -22,11 +23,8 @@ python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp;&nbsp; SQL y
 &nbsp;&nbsp;&nbsp;![](https://img.icons8.com/external-tal-revivo-color-tal-revivo/25/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/25/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://img.icons8.com/nolan/25/nextjs.png)  
 Angular &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vue &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Next
 
+## GitHub Analytics
 
-
-
-###
----
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
